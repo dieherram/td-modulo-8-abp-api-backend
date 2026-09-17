@@ -174,9 +174,3 @@ src/
 ## Testing con Postman
 
 Importar el archivo `postman_collection.json` en Postman para probar todos los endpoints.
-
-<div align="center">
-
-### Desarrollado como parte del Programa Talento Digital
-
-</div>
